@@ -1,4 +1,4 @@
-### Project Description
+### Air Quality PredictionUsing ML Model
 
 This project leverages machine learning techniques to predict air quality, contributing to Sustainable Development Goals (SDGs) by providing actionable insights for improving environmental health. The dataset, which includes various air pollutants such as CO, NO2, and NOx, underwent extensive preprocessing to handle missing values and outliers. Key pollutants were selected based on their correlations to ensure accurate predictions. Two primary models were implemented: K-Nearest Neighbors (KNN) and Random Forest Classifier, each trained and evaluated to determine the air quality index (AQI). Visualization techniques such as 3D scatter plots were employed to illustrate the model performance and the effectiveness of the dimensionality reduction via Principal Component Analysis (PCA).
 
